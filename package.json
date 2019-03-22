@@ -1,6 +1,6 @@
 {
   "name": "hiki-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "another basic version react-router",
   "main": "src/index.js",
   "scripts": {
